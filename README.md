@@ -1,6 +1,6 @@
-# Face Filter Dragon
+# Face Filter Dragon 🐲
 
-A real-time animated face filter that places a dragon overlay on the user's face and animates it based on facial state — triggering fire or mouth animations when the user opens their mouth or eyes. Built on top of the Face Mesh module from the previous project.
+A real-time animated face filter that places a dragon overlay on the user's face and animates fire animations when the user opens their mouth or eyes. Built on top of the Face Mesh module from the previous project.
 
 ## Overview
 
