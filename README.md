@@ -17,7 +17,7 @@ The program extends the `FaceMeshDetector` class with two new detection methods:
 
 ## Demo
 
-> *Add a screenshot or short GIF showing the dragon filter with a mouth-open animation triggered.*
+https://github.com/user-attachments/assets/8c5e38e8-7ab7-47ef-998b-174a5369ed54
 
 ## Setup
 
